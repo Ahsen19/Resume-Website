@@ -1,0 +1,122 @@
+---
+layout: post
+title: Resume
+---
+
+
+## **&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Syed Ali Jafry**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 48-1781 Pembina Highway, Winnipeg, MB, R3T 2G6  
+  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
+(431) 335-6958 \| [linkedin.com/in/syed-ali-ahsen](linkedin.com/in/syed-ali-ahsen) \| [aliahses@myumanitoba.ca](aliahses@myumanitoba.ca)  
+
+<br>
+
+### **EDUCATION**
+
+***
+  
+  **B.Sc. Computer Science Major (Co-op) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  2017 - Ongoing**  
+
+_The University of Manitoba_  
+
+### **TECHNICAL SKILLS**
+
+***
+
+**Programming**
+  
+  _Java 
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  JavaScript 
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  SQL 
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  C++_
+
+  _Vue.js
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+  CSS
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+  VBA
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  C_
+    
+  
+  _Groovy on Grails
+  &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;
+  Python
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
+  LC-3_
+
+  **Software**  
+
+  _Visual Studio Code
+  &emsp;&emsp;&emsp;&emsp;&nbsp;&ensp;
+  Code Blocks
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+  Spyder
+  &emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+  Neo4J_  
+  
+  _Android Studio
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+  IntelliJ
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  Excel
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+  SQLite_  
+  
+  _Command Line Interface
+  &emsp;&emsp;&nbsp;
+  Dr. Java
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;&ensp;
+  Git_  
+
+### **INDUSTRY EXPERIENCE**
+
+***
+  
+  **Junior Programmer (Co-op Work Term 1) 
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+  May - Aug 2021**  
+  _Agriculture and Agri-Food Canada (AAFC)_  
+
+  Part of Information Systems Branch, which is responsible for creating and maintaining business applications for clients and several other AAFC’s departments.  
+  * Created a web application where users can create a league which can have any number of teams. Each team can then have any number any number of players and their biodata  
+    * Created the front end using Vue.js
+    * Created the back end using Groovy on Grails
+    * Performed User Acceptance Tests to confirm all features are functional 
+  * Resolved bugs found in different Visual Basic & Vue applications in response to client’s complaints
+  * Updated several VBA applications as requested by clients 
+  * Performed User Acceptance Tests on several Visual Basic & Vue applications to give a thorough feedback of these applications to senior developers
+  * Responsible for receiving, formatting, and loading confidential files to specified platforms 
+
+
+### **ACADEMIC PROJECTS**
+
+***
+  
+  **Reversible Learning 
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+  Jan - Apr 2021**  
+  _Software Engineering 1 (Collaborative Project)_  
+
+  A flashcard application which allows users to organize cards in different folders. Independent contributions:
+  * Led primary research on several users and used the results to innovate new features for website
+  * Prepared paper prototypes to study and modify the selected idea 
+  *	Created a payment page for the website using JavaScript, CSS & HTML
+  *	Reviewed the website using the heuristic evaluation technique to improve user interface
+
+ **Order Away 
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+ Sept - Dec 2020**  
+ _Human Computer Interaction (Collaborative Project)_  
+
+ A food ordering website which allows users to order from their favorite, nearby restaurants. Independent contributions:
+ * Led primary research on several users and used the results to innovate new features for website
+ *	Prepared paper prototypes to study and modify the selected idea 
+ *	Created a payment page for the website using JavaScript, CSS & HTML
+ *	Reviewed the website using the heuristic evaluation technique to improve user interface
