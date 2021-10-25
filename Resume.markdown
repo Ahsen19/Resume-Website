@@ -1,7 +1,7 @@
----
+<!-- ---
 layout: post
 title: Resume
----
+--- -->
 
 
 ## **&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Syed Ali Jafry**
