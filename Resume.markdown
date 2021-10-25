@@ -1,3 +1,7 @@
+
+---
+layout: post
+---
 ## **&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Syed Ali Jafry**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 48-1781 Pembina Highway, Winnipeg, MB, R3T 2G6  
