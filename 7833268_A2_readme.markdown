@@ -1,0 +1,209 @@
+---
+layout: post
+title: Readme
+---
+
+# Host your Resume on GitHub Pages
+
+## Purpose  
+The purpose of this project is to describe the practical steps of how to host and format a resume on Github pages. A resume is required for any job in any field. In computer science, it is becoming more common to have an online portfolio. 
+
+## Getting Started  
+These are the prerequisites for this project:
+
+### Prerequisites:
+* Resume formatted in Markdown 
+
+* A [GitHub](https://github.com/) account
+
+* Visual Studio Code
+
+* Jekyll requires the following:
+    * Ruby version 2.5.0 or higher
+    * RubyGems
+    * GCC and Make
+    
+
+## Process overview  
+We will follow the following step by step process:    
+1. Setting up Jekyll  
+
+2. Starting a new Jekyll Project
+
+3. Embedding your Resume in md in Jekyll
+
+4. Creating a new repository
+
+5. Putting the name of the repository in the base url
+
+6. Adding header to Resume file in Jekyll
+
+7. Uploading Jekyll project to GitHub account
+
+8. Accessing your website  
+
+9. Changing Themes
+
+## Instructions and walk through:
+
+### Step 1: Setting up Jekyll
+1. Install all jekyll prerequisites. This can easily be done by following this link on jekyll's [documentation](https://jekyllrb.com/docs/installation/)  
+
+2. Open up your command prompt and type the follwing to install jekyll and bundler gems
+```
+gem install jekyll bundler
+```
+3. Now you are ready to create your first Jekyll project  
+
+### Step 2: Starting a new Jekyll Project  
+1. Change your directory to where you want our project will be by using the cd command 
+```
+cd C:\Users\aliah\Desktop\Comp 3040\Assignments\Assignment 2 things
+```
+
+2. Create your project using the 'jekyll new ' command, followed by the name you want to give it
+```
+jekyll new Resume-Website
+```
+3. Now just to make sure your initial Jekyll Project is working properly,
+    * Change directory to the projects folder
+    ```
+    cd Resume-Workshop
+    ```
+
+    * Now at any time you want to check out the template website from your local machine, just type the following:
+    ```
+    bundle exec jekyll serve
+    ```
+    This static website will be available on local server:  
+    http://localhost:4000
+
+### Step 3: Embedding your Resume in md in Jekyll 
+1. Cut and paste your resume in the project folder i.e. Resume-Website in this example
+    * Now you can run your Jekyll Project and preview your resume on your local server  
+
+### Step 4: Create a new repository 
+1. Login to your GitHub account  
+
+2. Go to the repository tab  
+
+![Repository Bar](Images/Repository_bar.png)
+
+3. Click on the 'New' button  
+
+![New Button](Images/New_repo_bttn.png)
+
+4. On this page:  
+
+![Crete Repo Settings](Images/create_repo_settings.png)  
+
+    1. Name your repository 
+    2. Select 'Public'
+    3. Click 'Create repository'
+
+### Step 5: Putting the name of the repository in the base url
+1. Launch Visual Studio Code and open your Jekyll project folder i.e. (Resume-Website)
+    * You can open a folder in Visual Studio Code by left clicking on the file tab and selecting open folder.
+    * Then you can navigate to your folder and select it
+    * Opening your project folder in Visual Studio Code helps you access all your files easily. Visual Studio Code supports most file formats including Markdown and YML files
+    * Visual Studio Code also lets you preview Markdown files as you write them  
+
+
+2. Open the '_config.yml' file  
+
+![Config Selection](Images/config_yml.png)  
+
+3. Match the 'baseurl' variable (Line 27 in the image below) to your GitHub repository name, preceded by a forward slash '/'  
+
+![Config Selection](Images/base_url.png)  
+
+### Step 6: Adding header to Resume file in Jekyll
+1. Add the following code at the top of your Resume markdown file:
+
+```
+---
+title: Resume
+---
+```
+
+* Adding the above code will create a link to your resume on the welcome page of your static website  
+
+![Resume Bar](Images/resume_bar.png)  
+
+![Resume GIF](Images/resume_gif.gif)
+
+### Step 7: Uploading Jekyll project to GitHub account
+1. Select the Source Control widget in Visual Studio Code  
+
+![Source Control Widget](Images/source_control_widget.png)  
+
+2. You will be required to add a git remote repository to your current project
+    * You can check out [this video](https://www.youtube.com/watch?v=oigQwU7o-as), which walks you through the process of adding a remote git repository to your Project in Visual Studio Code and syncronize it.  
+
+3. Login to your GitHub account. Yoou should see all your project files in your Repository  
+
+![All Files](Images/all_files.png)  
+
+
+## Step 8: Accessing your website
+1. On your Repository page, navigate to 'Settings' and click on 'Pages'  
+
+![Page Settings](Images/page_settings.png)  
+
+2. On this page:
+    1. Click on 'None' dropdown
+    2. Select the desired branch
+    3. Then Click 'Save' button  
+
+![Enable Website](Images/enable_website.png)
+
+
+
+3. You should be able to see a link of your website provided by GitHub
+
+![Website Link](Images/website_link.png)  
+
+4. Click on the link and navigate to your resume (as shown in Step 6)
+    * You can also directly access your website by adding the name of the resume file at the end of your website's link
+    * In the previos picture, the website link is 'https://ahsen19.github.io/Resume-Website/' and the resume file name is '7833268_A2_resume'
+    * They can be combined together to directly access the resume
+    https://ahsen19.github.io/Resume-Website/7833268_A2_resume  
+
+### Step 9: Changing Themes
+1. To change the theme of your website, navigate back to GitHub Page Settings
+
+2. Click on the 'Change Theme' button  
+![Change Theme Button](Images/change_theme_button.png)
+
+3. Choose a theme  
+
+4. Click 'Select Theme'  
+
+![Choose & Select Theme](Images/choose_select_theme.png)
+
+5. Refresh your website to check out the new theme  
+
+    
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+**More Resources:**  
+* [Markdown Tutorials](https://www.markdowntutorial.com/) is a good resource to learn and practice Markdown  
+
+* [Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+
+* [Visual Studio Code](https://code.visualstudio.com/download) download page
+
+* [Jekyll's documentation](https://jekyllrb.com/docs/) 
