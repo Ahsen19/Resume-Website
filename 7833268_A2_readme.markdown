@@ -25,6 +25,7 @@ These are the prerequisites for this project:
     * RubyGems
     * GCC and Make
     
+***  
 
 ## Process overview  
 We will follow the following step by step process:    
@@ -160,7 +161,7 @@ title: Resume
 ![All Files](Images/all_files.png)  
 
 
-## Step 8: Accessing your website
+### Step 8: Accessing your website
 1. On your Repository page, navigate to 'Settings' and click on 'Pages'  
 
 ![Page Settings](Images/page_settings.png)  
@@ -201,7 +202,8 @@ title: Resume
 ***  
 
 ## Authors and Acknowledgments:  
-**Author:** Syed Ali Ahsen M. Jafry
+**Author:** Syed Ali Ahsen M. Jafry  
+
 **Reviewed by:**
 
 ***  
@@ -214,7 +216,7 @@ title: Resume
 
 2. **Why is my GitHub pages website not updating even after I push updated files to GitHub?**  
 
-* This is a very common problem. Make sure that the source branch for GitHub pages (As shown in Step 8 part 2) and your updated branch is the same.
+* This is a very common problem. Make sure that the source branch for GitHub pages (As shown in Step 8 part 2) and your updated branch are the same.
 
 
 ***
@@ -229,4 +231,6 @@ title: Resume
 
 * [Jekyll's documentation](https://jekyllrb.com/docs/)  
 
-* [Setting up GitHub pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
+* [Setting up GitHub pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)  
+
+* [My website](https://ahsen19.github.io/Resume-Website/)
