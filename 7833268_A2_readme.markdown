@@ -6,7 +6,9 @@ title: Readme
 # Host your Resume on GitHub Pages
 
 ## Purpose  
-The purpose of this project is to describe the practical steps of how to host and format a resume on Github pages. A resume is required for any job in any field. In computer science, it is becoming more common to have an online portfolio. 
+The purpose of this project is to describe the practical steps of how to host and format a resume on Github pages. A resume is required for any job in any field. In computer science, it is becoming more common to have an online portfolio.  
+
+***  
 
 ## Getting Started  
 These are the prerequisites for this project:
@@ -27,12 +29,24 @@ These are the prerequisites for this project:
 ## Process overview  
 We will follow the following step by step process:    
 1. Setting up Jekyll  
+    * Etter recomends using a static websites to host your documentation, because:
+        * They are fast, simple, portable, and secure
+        * Only need to update documentations in one place therefore avoiding the presence of different versions 
 
 2. Starting a new Jekyll Project
+    * Etter recomends using a static website generator (such as Jekyll), as they make it easier to organize and modify the websites
 
-3. Embedding your Resume in md in Jekyll
+3. Embedding your Resume in md in Jekyll 
+    * As Etter recomends to use lightweight markup language for documeentation such as MarkDown, because:   
+        * it is easy to learn 
+        * Readable compared to raw XML 
+        * Many programs (such as Jekyll) support it 
 
-4. Creating a new repository
+4. Creating a new repository  
+    * Etter recomends to use version control, because:  
+        * developers prefer them 
+        * documentation and code branches stay in sync  
+        * developers are more likly to contribute if they do not have to clone a seperate repository
 
 5. Putting the name of the repository in the base url
 
@@ -43,6 +57,7 @@ We will follow the following step by step process:
 8. Accessing your website  
 
 9. Changing Themes
+    * Etter suggests to take the time to customize the theme, to differenciate your website and make it more attractive
 
 ## Instructions and walk through:
 
@@ -183,27 +198,35 @@ title: Resume
 
 5. Refresh your website to check out the new theme  
 
-    
+***  
+
+## Authors and Acknowledgments:  
+**Author:** Syed Ali Ahsen M. Jafry
+**Reviewed by:**
+
+***  
+
+## FAQs:  
+
+1. **Why should I use markdown over word processor?**   
+
+* While a word processor provides a better user interface and more functionality to format text, it is not portable. To embed your resume in different programs, you will have to copy-paste all your text and redesign everything, using different syntax such as HTML tags. On the other hand, Markdown files are supported by most modern software.   
+
+2. **Why is my GitHub pages website not updating even after I push updated files to GitHub?**  
+
+* This is a very common problem. Make sure that the source branch for GitHub pages (As shown in Step 8 part 2) and your updated branch is the same.
 
 
- 
+***
 
 
-
-
-
-
-
-
-
-
-
-
-**More Resources:**  
+## More Resources:  
 * [Markdown Tutorials](https://www.markdowntutorial.com/) is a good resource to learn and practice Markdown  
 
 * [Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 * [Visual Studio Code](https://code.visualstudio.com/download) download page
 
-* [Jekyll's documentation](https://jekyllrb.com/docs/) 
+* [Jekyll's documentation](https://jekyllrb.com/docs/)  
+
+* [Setting up GitHub pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
