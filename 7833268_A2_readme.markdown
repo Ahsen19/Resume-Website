@@ -154,9 +154,9 @@ title: Resume
 ![Source Control Widget](Images/source_control_widget.png)  
 
 2. You will be required to add a git remote repository to your current project
-    * You can check out [this video](https://www.youtube.com/watch?v=oigQwU7o-as), which walks you through the process of adding a remote git repository to your Project in Visual Studio Code and syncronize it.  
+    * You can check out [this video](https://www.youtube.com/watch?v=oigQwU7o-as), which walks you through the process of adding a remote git repository to your Project in Visual Studio Code and synchronize it.  
 
-3. Login to your GitHub account. Yoou should see all your project files in your Repository  
+3. Login to your GitHub account. You should see all your project files in your Repository  
 
 ![All Files](Images/all_files.png)  
 
@@ -202,9 +202,9 @@ title: Resume
 ***  
 
 ## Authors and Acknowledgments:  
-**Author:** Syed Ali Ahsen M. Jafry  
+**Author:** _Syed Ali Ahsen M. Jafry_  
 
-**Reviewed by:**
+**Reviewed by:** _Akashdeep Singh, Hai Nguyen, Md Jannatul Nayem & Benjamin Zhou_
 
 ***  
 
@@ -212,11 +212,11 @@ title: Resume
 
 1. **Why should I use markdown over word processor?**   
 
-* While a word processor provides a better user interface and more functionality to format text, it is not portable. To embed your resume in different programs, you will have to copy-paste all your text and redesign everything, using different syntax such as HTML tags. On the other hand, Markdown files are supported by most modern software.   
+    While a word processor provides a better user interface and more functionality to format text, it is not portable. To embed your resume in different programs, you will have to copy-paste all your text and redesign everything, using different syntax such as HTML tags. On the other hand, Markdown files are supported by most modern software.   
 
 2. **Why is my GitHub pages website not updating even after I push updated files to GitHub?**  
 
-* This is a very common problem. Make sure that the source branch for GitHub pages (As shown in Step 8 part 2) and your updated branch are the same.
+    This is a very common problem. Make sure that the source branch for GitHub pages (As shown in Step 8 part 2) and your updated branch are the same.
 
 
 ***
